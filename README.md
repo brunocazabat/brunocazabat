@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Bruno Cazabat
 
-- 🔭 I’m currently working on an intern project with Exxeta, in Stuttgart.
+- 🔭 I’m currently Open to a new Software Developer Position in Stuttgart, or in remote.
 - 🌱 I’m currently learning JAVA, and backend dev overall.
 - 👯 I’m looking to collaborate on new frontend dev task, solution dev and product owning.
 - 🤔 I’m looking for help with SpringBoot and Maven processes.
