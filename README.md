@@ -7,7 +7,7 @@
 - 💬 Ask me about any UI UX question and frontend related languages.
 - 📫 How to reach me: with Linkedin /in/b-czt/
 - 😄 Pronouns: brubru, he, him.
-- ⚡ Fun fact: cooking, always enjoying a good beer or a good talk about why I enjoy more Vue over Angular and React.
+- ⚡ Fun fact: cooking, always enjoying a good beer or a good talk about why I enjoy more Vue and React over Angular.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,py,c,cpp,cs,docker,flutter,vscode,linux)](https://skillicons.dev)
 
