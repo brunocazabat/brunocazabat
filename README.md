@@ -11,4 +11,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,py,c,cpp,cs,docker,flutter,vscode,linux)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=brunocazabat&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunocazabat&count_private=true&show_icons=true)
