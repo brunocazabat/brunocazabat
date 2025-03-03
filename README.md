@@ -1,11 +1,3 @@
 ### Hi there 👋, my name is Bruno Cazabat
 
-- 🔭 I’m currently working as a Software Developer/DevOps nerd around Stuttgart.
-- 🌱 I’m currently learning Go, and Ansible.
-- 👯 I want to collaborate on new DevOps solutions and process automation.
-- 🤔 I’m looking for help with SpringBoot, DevOPS processes.
-- 💬 Ask me about any UI UX questions, home-lab stuff, and frontend-related languages.
-- 📫 How to reach me: by Linkedin > [/in/b-czt/](https://www.linkedin.com/in/b-czt/)
-- ⚡ Fun fact: cooking, always enjoying a good beer, or talking about why I enjoy Vue and React over Angular.
-
-[![Stats](https://raw.githubusercontent.com/brunocazabat/brunocazabat/main/github-metrics.svg)](https://github.com/lowlighter/metrics)
+![Metrics](https://metrics.lecoq.io/brunocazabat?template=classic&stars=1&languages=1&isocalendar=1&fortune=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars=false&stars.limit=6&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&fortune=false&config.timezone=Europe%2FBerlin)
